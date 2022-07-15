@@ -1,0 +1,106 @@
+[
+  {
+    "name": "shapes",
+    "sticker": 33
+  },
+  {
+    "name": "shipping",
+    "sticker": 10
+  },
+  {
+    "name": "cosmetic",
+    "sticker": 10
+  },
+  {
+    "name": "holidays",
+    "sticker": 10
+  },
+  {
+    "name": "covid",
+    "sticker": 10
+  },
+  {
+    "name": "hazard",
+    "sticker": 10
+  },
+  {
+    "name": "babyshower",
+    "sticker": 10
+  },
+  {
+    "name": "general",
+    "sticker": 10
+  },
+  {
+    "name": "name",
+    "sticker": 10
+  },
+  {
+    "name": "address",
+    "sticker": 10
+  },
+  {
+    "name": "event",
+    "sticker": 10
+  },
+  {
+    "name": "kids",
+    "sticker": 10
+  },
+  {
+    "name": "product",
+    "sticker": 10
+  },
+  {
+    "name": "drinks",
+    "sticker": 10
+  },
+  {
+    "name": "customshape",
+    "sticker": 10
+  },
+  {
+    "name": "candy",
+    "sticker": 10
+  },
+  {
+    "name": "gaming",
+    "sticker": 10
+  },
+  {
+    "name": "cars",
+    "sticker": 20
+  },
+  {
+    "name": "soap",
+    "sticker": 10
+  },
+  {
+    "name": "laptop",
+    "sticker": 10
+  },
+  {
+    "name": "names",
+    "sticker": 10
+  },
+  {
+    "name": "halloween",
+    "sticker": 9
+  },
+  {
+    "name": "thanksgiving",
+    "sticker": 10
+  },
+  {
+    "name": "blackfriday",
+    "sticker": 10
+  },
+  {
+    "name": "christmas",
+    "sticker": 10
+  },
+  {
+    "name": "newyear",
+    "sticker": 10
+  }
+]
