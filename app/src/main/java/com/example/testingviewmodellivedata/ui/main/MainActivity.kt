@@ -18,9 +18,10 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
 
         val categoryViewModel = ViewModelProvider(this)[CategoryViewModel::class.java]
 
-        categoryViewModel.resultingCategory.observe(this){
-
+        categoryViewModel.getReadDataModel()?.observe(this) {
+            binding.textView.text = it.toString()
         }
+
     }
 
     override fun createViewBinding(layoutInflater: LayoutInflater): ActivityMainBinding {
